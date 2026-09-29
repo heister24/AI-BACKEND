@@ -1,0 +1,70 @@
+temperature: 0.2 → Very focused 🧠
+The AI tries to give a clear and predictable answer.
+
+Example:
+Question: What is JavaScript?
+You will usually get a straightforward answer:
+JavaScript is a programming language used to create interactive web applications.
+
+Good for:
+Coding
+Technical questions
+Mathematics
+Factual information
+Structured answers
+
+
+temperature: 0.7 → Normal / balanced 🤖
+The AI is still accurate, but has some freedom in how it explains things.
+
+Example:
+Question: What is JavaScript?
+
+It might say:
+JavaScript is a programming language that makes websites interactive. It can be used in the browser as well as on the server with Node.js.
+
+Good for:
+Normal chatbots
+General questions
+Explanations
+Your AI chatbot application
+
+
+temperature: 1.0 → More creative 🎨
+The AI has more freedom to come up with different ideas and wording.
+
+Example:
+Question: Give me a name for my AI chatbot.
+It might suggest:
+Nova
+Heister
+Astra
+Synapse
+Orbit
+
+Good for:
+Creative writing
+Story ideas
+Naming things
+Brainstorming
+Marketing content
+
+
+temperature: 1.5+ → Very creative / unpredictable 🚀
+Now the AI has a lot more freedom.
+
+For example:
+Question: Give me a name for my AI chatbot.
+
+It might produce unusual names like:
+Lumora
+Nexaris
+MindFlux
+AetherCore
+Quantum Whisper
+
+But there's a trade-off:
+
+More creativity → potentially less predictable/consistent output.
+
+So you generally don't want very high temperature for technical questions.
